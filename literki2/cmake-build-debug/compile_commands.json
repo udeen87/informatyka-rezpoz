@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/cilionprojekty/literki2/cmake-build-debug",
+  "command": "\"E:\\ciloion\\CLion 2025.3.4\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\literki2.dir\\main.cpp.obj -c E:\\cilionprojekty\\literki2\\main.cpp",
+  "file": "E:/cilionprojekty/literki2/main.cpp",
+  "output": "E:/cilionprojekty/literki2/cmake-build-debug/CMakeFiles/literki2.dir/main.cpp.obj"
+}
+]
