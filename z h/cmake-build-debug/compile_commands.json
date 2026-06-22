@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/cilionprojekty/z h/cmake-build-debug",
+  "command": "\"E:\\ciloion\\CLion 2025.3.4\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\z_h.dir\\main.cpp.obj -c \"E:\\cilionprojekty\\z h\\main.cpp\"",
+  "file": "E:/cilionprojekty/z h/main.cpp",
+  "output": "E:/cilionprojekty/z h/cmake-build-debug/CMakeFiles/z_h.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/cilionprojekty/z h/cmake-build-debug",
+  "command": "\"E:\\ciloion\\CLion 2025.3.4\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\z_h.dir\\source.cpp.obj -c \"E:\\cilionprojekty\\z h\\source.cpp\"",
+  "file": "E:/cilionprojekty/z h/source.cpp",
+  "output": "E:/cilionprojekty/z h/cmake-build-debug/CMakeFiles/z_h.dir/source.cpp.obj"
+}
+]
