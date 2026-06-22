@@ -1,0 +1,8 @@
+[
+{
+  "directory": "F:/clion/2204/cmake-build-debug",
+  "command": "\"E:\\ciloion\\CLion 2025.3.4\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\2204.dir\\main.cpp.obj -c F:\\clion\\2204\\main.cpp",
+  "file": "F:/clion/2204/main.cpp",
+  "output": "F:/clion/2204/cmake-build-debug/CMakeFiles/2204.dir/main.cpp.obj"
+}
+]

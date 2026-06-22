@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/cilionprojekty/duzemale/cmake-build-debug",
+  "command": "\"E:\\ciloion\\CLion 2025.3.4\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\duzemale.dir\\main.cpp.obj -c E:\\cilionprojekty\\duzemale\\main.cpp",
+  "file": "E:/cilionprojekty/duzemale/main.cpp",
+  "output": "E:/cilionprojekty/duzemale/cmake-build-debug/CMakeFiles/duzemale.dir/main.cpp.obj"
+}
+]

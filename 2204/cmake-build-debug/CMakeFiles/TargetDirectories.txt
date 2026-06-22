@@ -1,0 +1,3 @@
+F:/clion/2204/cmake-build-debug/CMakeFiles/2204.dir
+F:/clion/2204/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/clion/2204/cmake-build-debug/CMakeFiles/rebuild_cache.dir
