@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/clion/15.04/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\15_04.dir\\main.cpp.obj -c D:\\clion\\15.04\\main.cpp",
+  "file": "D:/clion/15.04/main.cpp",
+  "output": "D:/clion/15.04/cmake-build-debug/CMakeFiles/15_04.dir/main.cpp.obj"
+}
+]

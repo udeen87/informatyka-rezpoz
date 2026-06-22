@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/cilionprojekty/1305/cmake-build-debug",
+  "command": "\"E:\\ciloion\\CLion 2025.3.4\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\1305.dir\\main.cpp.obj -c E:\\cilionprojekty\\1305\\main.cpp",
+  "file": "E:/cilionprojekty/1305/main.cpp",
+  "output": "E:/cilionprojekty/1305/cmake-build-debug/CMakeFiles/1305.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/cilionprojekty/1305/cmake-build-debug",
+  "command": "\"E:\\ciloion\\CLion 2025.3.4\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\1305.dir\\costam.cpp.obj -c E:\\cilionprojekty\\1305\\costam.cpp",
+  "file": "E:/cilionprojekty/1305/costam.cpp",
+  "output": "E:/cilionprojekty/1305/cmake-build-debug/CMakeFiles/1305.dir/costam.cpp.obj"
+}
+]
