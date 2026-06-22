@@ -1,0 +1,3 @@
+C:/Users/lukie/CLionProjects/SamolotKonsola/cmake-build-debug/CMakeFiles/SamolotKonsola.dir
+C:/Users/lukie/CLionProjects/SamolotKonsola/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lukie/CLionProjects/SamolotKonsola/cmake-build-debug/CMakeFiles/rebuild_cache.dir

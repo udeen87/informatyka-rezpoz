@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/lukie/CLionProjects/SamolotKonsola/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\SamolotKonsola.dir\\main.cpp.obj -c C:\\Users\\lukie\\CLionProjects\\SamolotKonsola\\main.cpp",
+  "file": "C:/Users/lukie/CLionProjects/SamolotKonsola/main.cpp",
+  "output": "C:/Users/lukie/CLionProjects/SamolotKonsola/cmake-build-debug/CMakeFiles/SamolotKonsola.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/lukie/CLionProjects/SamolotKonsola/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\SamolotKonsola.dir\\Airplane.cpp.obj -c C:\\Users\\lukie\\CLionProjects\\SamolotKonsola\\Airplane.cpp",
+  "file": "C:/Users/lukie/CLionProjects/SamolotKonsola/Airplane.cpp",
+  "output": "C:/Users/lukie/CLionProjects/SamolotKonsola/cmake-build-debug/CMakeFiles/SamolotKonsola.dir/Airplane.cpp.obj"
+},
+{
+  "directory": "C:/Users/lukie/CLionProjects/SamolotKonsola/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.4\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\SamolotKonsola.dir\\ConsoleUI.cpp.obj -c C:\\Users\\lukie\\CLionProjects\\SamolotKonsola\\ConsoleUI.cpp",
+  "file": "C:/Users/lukie/CLionProjects/SamolotKonsola/ConsoleUI.cpp",
+  "output": "C:/Users/lukie/CLionProjects/SamolotKonsola/cmake-build-debug/CMakeFiles/SamolotKonsola.dir/ConsoleUI.cpp.obj"
+}
+]

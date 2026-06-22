@@ -1,0 +1,5 @@
+=== RAPORT REZERWACJI ===
+Wygenerowano: 2026-06-22 15:38:04
+Samolot: Embraer 190
+
+Miejsce 10D -> Pasazer: kk
