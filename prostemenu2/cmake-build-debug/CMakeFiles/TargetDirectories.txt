@@ -1,0 +1,3 @@
+F:/clion/prostemenu2/cmake-build-debug/CMakeFiles/prostemenu2.dir
+F:/clion/prostemenu2/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/clion/prostemenu2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
